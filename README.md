@@ -1,5 +1,5 @@
 # Desafio de Projeto com Spring Boot aplicando Padrões de Projeto
-Projeto entregue como desafio de projeto do bootcamp da [DIO]() `Code Update TQI - Backend com Kotlin e Java` no módulo `Explorando Padrões de Projetos na Prática com Java`
+Projeto entregue como desafio de projeto do bootcamp da [DIO](https://web.dio.me/) `Code Update TQI - Backend com Kotlin e Java` no módulo `Explorando Padrões de Projetos na Prática com Java`
 
 ## Padrões de projeto explorados
 * **Singleton** - O conceito do Singleton é utilizado para instanciar os services e os repositorys, criando apenas uma única instância sempre que é utilizado, isso é feito no SpringBoot através da annotation `@Autowired`.
